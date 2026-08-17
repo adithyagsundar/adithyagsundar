@@ -1,42 +1,27 @@
+<div align="center">
+
 # Hey, I'm Adithya 👋
 
-I'm a **Computer Science & Linguistics student at UCLA** who enjoys building useful, reliable software - from backend services and data pipelines to full-stack products and AI-powered systems.
+**CS + Linguistics @ UCLA**
 
-I like taking ambiguous problems, breaking them into clean systems, and shipping solutions that work. Along the way, I've worked across software engineering, distributed infrastructure, developer tooling, and applied AI.
+I like building useful software, from full-stack apps and backend systems to ML projects.
 
-## What I've worked on
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
 
-- 🛠️ Built backend services, reusable data pipelines, and user-feedback systems for a multilingual product
-- ⚙️ Developed scalable experimentation and evaluation infrastructure across multiple models and datasets
-- ☁️ Deployed distributed GPU workflows with Docker, Kubernetes, and cloud-native tooling
-- 🚀 Shipped projects across full-stack development, developer tooling, and applied AI
-- 🏆 Published at BlackBoxNLP @ EMNLP and won three hackathons
+### stack
 
-## Tools I reach for
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages**  
-Python · TypeScript · JavaScript · Java · C++ · SQL
+<sub>currently interested in backend, full-stack, infrastructure, and applied ml.</sub>
 
-**Backend & data**  
-Node.js · Express · FastAPI · Flask · PostgreSQL · MongoDB · pandas
-
-**Frontend**  
-React · Next.js · HTML/CSS
-
-**Infrastructure & ML**  
-Git · Linux · Docker · Kubernetes · PyTorch · Hugging Face Transformers
-
-## I'm interested in
-
-- Backend and full-stack engineering
-- Scalable systems, infrastructure, and developer tools
-- Building polished products from open-ended ideas
-- Applied AI and language technology
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya_Gnanasundar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
-[![Email](https://img.shields.io/badge/Email-adithyag%40ucla.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
-
-<sub>Always happy to talk about software, ambitious ideas, or an interesting project.</sub>
-
+</div>
