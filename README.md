@@ -9,6 +9,31 @@ I enjoy building useful software, from full-stack applications and backend syste
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
 
+### Experience
+
+<table>
+  <tr>
+    <td>💻</td>
+    <td><b>Software Engineering · Yekola</b><br><sub>Built backend systems and data pipelines for a multilingual AI platform.</sub></td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td><b>Machine Learning Research · UIUC</b><br><sub>Developed scalable evaluation infrastructure for LLM unlearning research.</sub></td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Machine Learning Research · UC Santa Cruz</b><br><sub>Worked on neuro-symbolic reasoning and distributed model workflows.</sub></td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><b>Semantic Entropy Probes</b><br><sub>Built interpretability probes and evaluation pipelines for uncertainty in language models.</sub></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Linguistics Ellipsis Research</b><br><sub>Created multilingual corpus pipelines for cross-linguistic analysis across four languages.</sub></td>
+  </tr>
+</table>
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,6 +47,6 @@ I enjoy building useful software, from full-stack applications and backend syste
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<sub>Currently interested in backend engineering, full-stack development, infrastructure, and applied machine learning.</sub>
+<sub>Interested in backend engineering, full-stack development, infrastructure, and applied machine learning.</sub>
 
 </div>
