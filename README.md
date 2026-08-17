@@ -1,15 +1,15 @@
 <div align="center">
 
-# hey, i'm adithya 👋
+# Hi, I'm Adithya 👋
 
-**cs + linguistics @ ucla**
+**Computer Science + Linguistics at UCLA**
 
-i like building useful software, from full-stack apps and backend systems to ml projects.
+I enjoy building useful software, from full-stack applications and backend systems to machine learning projects.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
 
-### stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,6 +22,6 @@ i like building useful software, from full-stack apps and backend systems to ml 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<sub>currently interested in backend, full-stack, infrastructure, and applied ml.</sub>
+<sub>Interested in backend engineering, full-stack development, infrastructure, and applied machine learning.</sub>
 
 </div>
