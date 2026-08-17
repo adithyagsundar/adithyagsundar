@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Adithya 👋
+# hey, i'm adithya 👋
 
-**CS + Linguistics @ UCLA**
+**cs + linguistics @ ucla**
 
-I like building useful software, from full-stack apps and backend systems to ML projects.
+i like building useful software, from full-stack apps and backend systems to ml projects.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-gnanasundar)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyag@ucla.edu)
